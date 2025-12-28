@@ -1,7 +1,20 @@
 # 💫 About Me:
-Harshit Narang is a third-year Computer Science Engineering student at Bennett University, building impactful full-stack projects like the AI-powered MindCare mental health platform and a village infrastructure digital twin. Currently focused on modern web technologies and AI integrations, he leverages tools like React, Flutter, Supabase, and Vercel for deployment. His portfolio showcases hands-on experience from hackathons and internships.<br><br>Current Projects<br>Actively developing MindCare, a comprehensive mental wellness platform with real-time voice recognition, gamified modules, user authentication, analytics, and meditation tools for the Smart India Hackathon 2025. Also working on the Sudarshan village infrastructure digital twin and recent prototypes like a mock-interview coach in React/TypeScript and an AI-sequenced video playlist generator using YouTube data. Portfolio live at harshitnarang.vercel.app.[user-information]<br><br>Looking to Collaborate On<br>Open to teaming up on full-stack web apps, AI/ML integrations (e.g., voice-enabled projects with Whisper + GPT), mobile apps in Flutter, workflow automation with n8n, and hackathon ideas like scalable mental health or edtech tools. Interested in open-source contributions for deployment optimization on Netlify/Vercel or Supabase backends.[user-information]<br><br>Seeking Help With<br>Debugging complex API integrations, advanced React patterns, DevOps scaling for production apps, and blockchain basics for future projects. Also troubleshooting late-night deployments on Google Cloud or optimizing Supabase queries for real-time features.[user-information]<br><br>Currently Learning<br>Deepening skills in advanced OOP with Python/pandas for data-heavy apps, no-code prompting for rapid prototyping, and system design for multi-user platforms. Exploring AI model integration and competitive programming DSA.[user-information]<br><br>Fun Fact<br>Once led a hackathon team to prototype a crypto price tracker in under 24 hours during a late-night coding marathon, fueled by chai and competitive spirit—proving that deadlines spark the best code.
+Harshit Narang, third-year CSE student at Bennett University (Class of 2029), builds full-stack apps like AI-powered MindCare and village digital twins. Portfolio: harshitnarang.vercel.app.
 
+Current Projects
+MindCare (SIH 2025: AI mental health with voice AI, gamification) + mock-interview coach in React/TS + video playlist generator.
 
+Collaboration Interests
+Full-stack web/AI apps, Flutter mobile, n8n automation, hackathons, open-source DevOps.
+
+Need Help With
+API debugging, advanced React, Supabase scaling, blockchain basics.
+
+Currently Learning
+OOP/Python/pandas, no-code prototyping, system design, DSA.
+
+Fun Fact
+made minc.netlify.app as my first website
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/narangharshit_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narangharshit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsnarang193@gmail.com) 
 
